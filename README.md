@@ -131,11 +131,13 @@ plt.show()
 
 ### iii)Image shearing
 
-![op3](https://user-images.githubusercontent.com/93427923/166110235-ce3389be-7e9d-4d23-af8a-e7e4ca65991f.png)
+![op3 1](https://user-images.githubusercontent.com/93427923/166110850-e6befb94-b40e-4906-a851-5745cac555ce.png)
+![op3 2](https://user-images.githubusercontent.com/93427923/166110861-b83ea066-1a1a-4a07-a5a1-5a11fa23cf7e.png)
 
 ### iv)Image Reflection
 
-![op4](https://user-images.githubusercontent.com/93427923/166110258-068ed785-f47d-4565-898c-2aaf0218a644.png)
+![op4 1](https://user-images.githubusercontent.com/93427923/166110874-09f5c1cb-67ee-4183-ac3f-ae58b2cd0dac.png)
+![op4 2](https://user-images.githubusercontent.com/93427923/166110881-980b02fa-43d4-4ea2-b1cb-8db7347575ef.png)
 
 ### v)Image Rotation
 
